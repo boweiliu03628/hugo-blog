@@ -1,0 +1,17 @@
+languageCode = "zh-cn"
+languageName = "简体中文"
+title = "Welcome to my Blog"	# 这个是页面左上角的名称
+[params]
+#logo = "img/touxiang.jpeg"	# 页面左上角的logo，需要在对应目录下放置图片
+
+
+
+[params.author]
+  name = "SpiderMan"	# 主页的中心位置
+image = "img/center.jpeg"	# 主页的logo位置
+  headline = "沉下心，加油干"# 这是座右铭的位置
+
+
+
+
+

@@ -1,0 +1,23 @@
+[[main]]	# main是指右上角
+  name = "AI"	# 这里是目录名称
+  pageRef = "AI"	# 这是目录对应的路径，位于 /content/docs
+  weight = 400	# 这里是位次的相对权重，weight小的会排在前面
+
+[[main]]
+  name = "others"
+  pageRef = "others"
+  weight = 400
+
+[[main]]
+  identifier = "email"
+  pre = "email"
+  weight = 400
+  url = "mailto:boweiliu2024@163.com"
+
+[[main]]
+  identifier = "github"		# 这里是站外链接
+  pre = "github"
+  url = "https://github.com/boweiliu03628"
+  weight = 400
+  
+
